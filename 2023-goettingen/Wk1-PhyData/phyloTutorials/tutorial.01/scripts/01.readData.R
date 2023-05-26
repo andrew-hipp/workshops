@@ -57,6 +57,12 @@ dat.bio.sem[temp.na, ] <- matrix(temp.sd, length(temp.na), length(temp.sd), byro
 if(identical(row.names(dat.bio.means), row.names(dat.bio.sem)))
     row.names(dat.bio.means) <- row.names(dat.bio.sem) <- paste('Quercus', row.names(dat.bio.means), sep = '_')
 
+spp.intersect <- Reduce(intersect, list(tr$tip.label,
+                                      row.names(dat.bio.means),
+                                      row.names(dat.geog),
+                                      row.names(dat.lf),
+                                      row.names(dat.sections)))
+
 tr <- drop.tip(tr, which(!tr$tip.label %in% spp.intersect))
                    
 dat.bio.means <- dat.bio.means[spp.intersect, ]
