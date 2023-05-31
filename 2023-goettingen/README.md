@@ -1,5 +1,11 @@
 # Workshop files for Goettingen 2023
-Files in this folder are for a short R coding workshop I taught (am teaching) as a Fulbright Specialist at University of Goettingen in June 2023. They were written using Jupyter, mostly using the Linux subsystem for Windows. Important to know? Maybe not, but some workshop students may be doing the same, so here is how I set up my system in case you're interested. I do not recommend using the windows Anaconda navigator, which I have mainly found to be a clunky pain in the neck. But if you like it and it works for you, more power to you. Stick with it.
+
+_** Under construction **_
+
+Files in this folder are for a short R coding workshop I taught (am teaching) as a Fulbright Specialist at University of Goettingen in June 2023. You can use R for this workshop in any way you want to, whether on the command-line or in an IDE such as RStudio. In this case, you will use the tutorials as static documents that you read through and code from. If you are doing so, I recommend using an external Jupyter notebook such as [nbviewer](https://nbviewer.org/).
+
+
+They were written using Jupyter, mostly using the Linux subsystem for Windows. Important to know? Maybe not, but some workshop students may be doing the same, so here is how I set up my system in case you're interested. I do not recommend using the windows Anaconda navigator, which I have mainly found to be a clunky pain in the neck. But if you like it and it works for you, more power to you. Stick with it.
 
 If you are working in Linux, life is easier; just skip step 1 below. 
 
