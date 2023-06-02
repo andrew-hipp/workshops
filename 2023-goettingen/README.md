@@ -70,7 +70,8 @@ jupyter notebook
  mamba install -c conda-forge r-phytools
  mamba install -c conda-forge r-vegan
 
-# for ggtree, which I've found to be a fussy install. It seems to work better if you install the dependencies manually first:
+# Following lines are for ggtree, which I've found to be a fussy install. 
+# It seems to work better if you install the dependencies manually first:
 
 mamba install -c conda-forge r-aplot
 mamba install -c conda-forge r-tidyverse
