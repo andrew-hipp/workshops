@@ -1,6 +1,5 @@
 # Workshop files for Goettingen 2023
-
-_** Under construction **_
+_updated: 2023-06-02_
 
 Files in this folder are for a short R coding workshop I taught (am teaching) as a Fulbright Specialist at University of Goettingen in June 2023. You can use R for this workshop in any way you want to, whether on the command-line or in an IDE such as RStudio. You can use the tutorials in one of two ways. The easiest is to treat them as static documents that you read through, copy from, and code from. If you are doing so, I recommend using an external Jupyter notebook such as [nbviewer](https://nbviewer.org/). Here, for example, is a [link to the R basics notebook in nbviewer](https://nbviewer.org/github/andrew-hipp/workshops/blob/master/2023-goettingen/Wk1-PhyData/2023-00_R-basics.ipynb). You can simply paste the URL to the tutorials into the nbviewer search box, and you'll be set to roll.
 
@@ -13,8 +12,10 @@ If you are working in Linux, life is easier; just skip step 1 below.
 1. Install WSL on your computer. I chose the Ubuntu option, but I don't think it matters. Launch the linux terminal, do the updates (`sudo apt update`) and upgrades (`sudo apt upgrade`), and you should be set to roll.
 2. Install anaconda. I recommend using the conda-forge install with mamba support for package management (this [link](https://github.com/conda-forge/miniforge#mambaforge)). Mamba is in fact a re-implmentation of conda in C++, and it runs smoother and faster than conda. If you are using WSL, you follow the guidelines in this link within the Linux prompt. Throughout, I'll assume you are using Linux.
 
-`curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
-bash Mambaforge-$(uname)-$(uname -m).sh`
+```
+curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+bash Mambaforge-$(uname)-$(uname -m).sh
+```
 
 3. Create a conda environment for r and jupyter, then activate it.
 
@@ -25,7 +26,9 @@ conda activate rjup
 
 4. Install Jupyter notebooks. Note that you can do this with pip instead of conda. I don't know whether there are real advantages either way.
 
-`mamba install -c conda-forge notebook`
+```
+mamba install -c conda-forge notebook
+```
 
 5. Install R. Note that you will find other advice the latest versions of R are available.
 
@@ -33,19 +36,27 @@ conda activate rjup
 
 6. Install IRkernel. This is the Kernel you need to get R and Jupyter talking with one another.
 
-`mamba install -c conda-forge r-irkernel`
+```
+mamba install -c conda-forge r-irkernel
+```
 
 7. Initialize IRkernel. For this, you need to open R by simply typing `R` on the command line within your conda environment. Within R, you then type:
 
-`IRkernel:::installspec()`
+```
+IRkernel:::installspec()
+```
 
 ... let it do its thing, then close R:
 
-`q()`.
+```
+q()
+```.
 
 Now you are up and running! You can launch a jupyter notebook by typing:
 
-`jupyter notebook`
+```
+jupyter notebook
+```
 
 ... then opening any of the links you see. A browser will launch, and the fun begins.
 
