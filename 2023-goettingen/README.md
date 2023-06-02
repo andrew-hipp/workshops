@@ -32,7 +32,9 @@ mamba install -c conda-forge notebook
 
 5. Install R. Note that you will find other advice the latest versions of R are available.
 
-`mamba install -c conda-forge r-base`
+```
+mamba install -c conda-forge r-base
+```
 
 6. Install IRkernel. This is the Kernel you need to get R and Jupyter talking with one another.
 
@@ -50,7 +52,7 @@ IRkernel:::installspec()
 
 ```
 q()
-```.
+```
 
 Now you are up and running! You can launch a jupyter notebook by typing:
 
