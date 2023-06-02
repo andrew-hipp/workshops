@@ -19,7 +19,7 @@ bash Mambaforge-$(uname)-$(uname -m).sh`
 
 3. Create a conda environment for r and jupyter.
 
-`conda create -n rjup`
+`conda create -n rjup`  
 `conda activate rjup`
 
 3. Install R. Once you have conda installed, you will use it for almost all other software installation. Assuming you have done the mamba install as recommended above, I believe you'll default to using conda-forge for installation, which is good: that's where the latest versions of R are available.
