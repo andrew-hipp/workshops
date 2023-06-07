@@ -52,4 +52,7 @@ po/*~
 # R package: bookdown caching files
 /*_files/
 
+### vsc file
+settings.json
+
 # End of https://www.toptal.com/developers/gitignore/api/r
