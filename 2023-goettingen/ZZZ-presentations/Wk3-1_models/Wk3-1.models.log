@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  15 JUN 2023 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  15 JUN 2023 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,179 +703,179 @@ Package: xurl 2020/01/24 v 0.09 modify URL breaks
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 134.
+(hyperref)                removing `\begingroup' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 134.
+(hyperref)                removing `\catcode' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 134.
+(hyperref)                removing `\active' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 134.
+(hyperref)                removing `\catcode' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 134.
+(hyperref)                removing `\active' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\%' on input line 134.
+(hyperref)                removing `\%' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 134.
+(hyperref)                removing `\catcode' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 134.
+(hyperref)                removing `\active' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\#' on input line 134.
+(hyperref)                removing `\#' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 134.
+(hyperref)                removing `\catcode' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\&' on input line 134.
+(hyperref)                removing `\&' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textunderscore' on input line 134.
+(hyperref)                removing `\textunderscore' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\_' on input line 134.
+(hyperref)                removing `\_' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 134.
+(hyperref)                removing `\catcode' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 134.
+(hyperref)                removing `\active' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\~' on input line 134.
+(hyperref)                removing `\~' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textasciitilde' on input line 134.
+(hyperref)                removing `\textasciitilde' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 134.
+(hyperref)                removing `\<let>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 134.
+(hyperref)                removing `\\' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 134.
+(hyperref)                removing `\csname\endcsname' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Hy@tempa' on input line 134.
+(hyperref)                removing `\Hy@tempa' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 134.
+(hyperref)                removing `\<def>-command' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Hy@tempa' on input line 134.
+(hyperref)                removing `\Hy@tempa' on input line 148.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
@@ -884,24 +884,24 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 ) (./Wk3-1.models.aux)
 \openout1 = `Wk3-1.models.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -958,7 +958,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box77
-Package hyperref Info: Link coloring OFF on input line 137.
+Package hyperref Info: Link coloring OFF on input line 151.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -968,55 +968,55 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count333
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 151.
+LaTeX Info: Redefining \pageref on input line 151.
+LaTeX Info: Redefining \nameref on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 137.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 137.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 137.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 151.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 151.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 137.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 137.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 151.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 137.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 137.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 151.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 137.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 137.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 151.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 137.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 137.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 151.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 137.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 151.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 137.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 137.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 137.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 137.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 137.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 137.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 151.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1042,14 +1042,14 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 137.
+LaTeX Info: Redefining \microtypecontext on input line 151.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 137.
+LaTeX Info: Redefining \showhyphens on input line 151.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1059,7 +1059,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 (./Wk3-1.models.nav)
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-138.
+152.
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1068,34 +1068,34 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-38.
+52.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-138.
+152.
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-138.
+152.
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 138.
+(Font)              <10> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 138.
+(Font)              <7> on input line 152.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 138.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 138
+(Font)              <5> on input line 152.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 152
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 138
+LaTeX Font Info:    Trying to load font information for U+msb on input line 152
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1103,11 +1103,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 152.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -1134,24 +1134,15 @@ File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout4 = `Wk3-1.models.vrb'.
 
 (./Wk3-1.models.vrb
-<Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf, id=41, 722.7pt x 361.3
-5pt>
+<Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf, id=41, 722.7pt x 289.0
+8pt>
 File: Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf Graphic file (type
  pdf)
 <use Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf>
 Package pdftex.def Info: Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf
   used on input line 14.
-(pdftex.def)             Requested size: 722.69823pt x 361.34912pt.
-
-Overfull \hbox (324.35963pt too wide) in paragraph at lines 14--14
- [] 
- []
-
-)
-Overfull \vbox (209.44106pt too high) detected at line 211
- []
-
-[4
+(pdftex.def)             Requested size: 398.33534pt x 159.33412pt.
+) [4
 
  <./Wk3-1.models_files/figure-beamer/unnamed-chunk-2-1.pdf>]
 \openout4 = `Wk3-1.models.vrb'.
@@ -1177,24 +1168,15 @@ LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
 \openout4 = `Wk3-1.models.vrb'.
 
 (./Wk3-1.models.vrb
-<Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf, id=77, 722.7pt x 361.3
-5pt>
+<Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf, id=76, 722.7pt x 289.0
+8pt>
 File: Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf Graphic file (type
  pdf)
 <use Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf>
 Package pdftex.def Info: Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf
   used on input line 14.
-(pdftex.def)             Requested size: 722.69823pt x 361.34912pt.
-
-Overfull \hbox (324.35963pt too wide) in paragraph at lines 14--14
- [] 
- []
-
-)
-Overfull \vbox (193.66325pt too high) detected at line 328
- []
-
-[9
+(pdftex.def)             Requested size: 398.33534pt x 159.33412pt.
+) [9
 
  <./Wk3-1.models_files/figure-beamer/unnamed-chunk-7-1.pdf>]
 \openout4 = `Wk3-1.models.vrb'.
@@ -1217,21 +1199,16 @@ Overfull \vbox (193.66325pt too high) detected at line 328
 (./Wk3-1.models.vrb) [13
 
 ]
-<Wk3-1.models_files/figure-beamer/unnamed-chunk-14-1.pdf, id=114, 1011.78pt x 4
+<Wk3-1.models_files/figure-beamer/unnamed-chunk-14-1.pdf, id=113, 1011.78pt x 4
 33.62pt>
 File: Wk3-1.models_files/figure-beamer/unnamed-chunk-14-1.pdf Graphic file (typ
 e pdf)
 <use Wk3-1.models_files/figure-beamer/unnamed-chunk-14-1.pdf>
 Package pdftex.def Info: Wk3-1.models_files/figure-beamer/unnamed-chunk-14-1.pd
-f  used on input line 480.
-(pdftex.def)             Requested size: 1011.77753pt x 433.61894pt.
+f  used on input line 481.
+(pdftex.def)             Requested size: 398.34416pt x 170.71892pt.
 
-Overfull \hbox (613.43893pt too wide) in paragraph at lines 480--480
- [] 
- []
-
-
-Overfull \vbox (284.54414pt too high) detected at line 480
+Overfull \vbox (27.64412pt too high) detected at line 481
  []
 
 [14
@@ -1240,17 +1217,9 @@ Overfull \vbox (284.54414pt too high) detected at line 480
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 536.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 536.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 536.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 536.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 536.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 536.
+(Font)              <14.4> on input line 531.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 531.
 [16
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{calculating-
@@ -1258,7 +1227,7 @@ akaikes-information-criterion-aic-and-deltaaic}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.536 \end{frame}
+l.531 \end{frame}
                   [17
 
 ]
@@ -1275,7 +1244,7 @@ l.536 \end{frame}
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 608.
+(amsmath)                 on input line 598.
 
 [20
 
@@ -1295,14 +1264,14 @@ Package amsmath Warning: Foreign command \over;
 vor-simpler-models}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.706 \end{frame}
+l.692 \end{frame}
                   [24
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{should-we-fa
 vor-simpler-models}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.706 \end{frame}
+l.692 \end{frame}
                   [25
 
 ]
@@ -1314,24 +1283,15 @@ l.706 \end{frame}
 \openout4 = `Wk3-1.models.vrb'.
 
 (./Wk3-1.models.vrb
-<Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pdf, id=209, 722.7pt x 361
-.35pt>
+<Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pdf, id=208, 722.7pt x 289
+.08pt>
 File: Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pdf Graphic file (typ
 e pdf)
 <use Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pdf>
 Package pdftex.def Info: Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pd
 f  used on input line 12.
-(pdftex.def)             Requested size: 722.69823pt x 361.34912pt.
-
-Overfull \hbox (324.35963pt too wide) in paragraph at lines 12--12
- [] 
- []
-
-)
-Overfull \vbox (203.44106pt too high) detected at line 746
- []
-
-[27
+(pdftex.def)             Requested size: 398.33534pt x 159.33412pt.
+) [27
 
  <./Wk3-1.models_files/figure-beamer/unnamed-chunk-22-1.pdf>] [28
 
@@ -1341,63 +1301,46 @@ Overfull \vbox (203.44106pt too high) detected at line 746
 \openout4 = `Wk3-1.models.vrb'.
 
 (./Wk3-1.models.vrb
-<Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf, id=233, 722.7pt x 289
-.08pt>
+
+LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 8.
+
+<Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf, id=232, 722.7pt x 216
+.81pt>
 File: Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf Graphic file (typ
 e pdf)
 <use Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf>
 Package pdftex.def Info: Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pd
-f  used on input line 17.
-(pdftex.def)             Requested size: 722.69823pt x 289.07928pt.
+f  used on input line 16.
+(pdftex.def)             Requested size: 398.33534pt x 119.5006pt.
+) [30
 
-Overfull \hbox (324.35963pt too wide) in paragraph at lines 17--17
- [] 
- []
+ <./Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf>]
+\openout4 = `Wk3-1.models.vrb'.
 
-)
-Overfull \vbox (183.89342pt too high) detected at line 814
- []
-
-[30
-
- <./Wk3-1.models_files/figure-beamer/unnamed-chunk-23-1.pdf>] [31
-
-]pdfTeX warning (ext4): destination with the same identifier (name{lets-set-up-
-five-models-that-we-think-are-plausible-explanations-of-w\ETC.}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.840 \end{frame}
-                  [32
-
-]pdfTeX warning (ext4): destination with the same identifier (name{lets-set-up-
-five-models-that-we-think-are-plausible-explanations-of-w\ETC.}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.840 \end{frame}
-                  [33
-
-]pdfTeX warning (ext4): destination with the same identifier (name{lets-set-up-
-five-models-that-we-think-are-plausible-explanations-of-w\ETC.}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.840 \end{frame}
-                  [34
-
-]pdfTeX warning (ext4): destination with the same identifier (name{lets-set-up-
-five-models-that-we-think-are-plausible-explanations-of-w\ETC.}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.840 \end{frame}
-                  [35
+(./Wk3-1.models.vrb) [31
 
 ]
 \openout4 = `Wk3-1.models.vrb'.
 
-(./Wk3-1.models.vrb) [36
+(./Wk3-1.models.vrb) [32
+
+]
+\openout4 = `Wk3-1.models.vrb'.
+
+(./Wk3-1.models.vrb) [33
+
+]
+\openout4 = `Wk3-1.models.vrb'.
+
+(./Wk3-1.models.vrb) [34
+
+]
+\openout4 = `Wk3-1.models.vrb'.
+
+(./Wk3-1.models.vrb) [35
+
+] [36
 
 ]
 \openout4 = `Wk3-1.models.vrb'.
@@ -1414,34 +1357,17 @@ l.840 \end{frame}
 
 (./Wk3-1.models.vrb) [39
 
-] [40
+]
+\openout4 = `Wk3-1.models.vrb'.
+
+(./Wk3-1.models.vrb) [40
 
 ]
 \openout4 = `Wk3-1.models.vrb'.
 
 (./Wk3-1.models.vrb) [41
 
-]
-\openout4 = `Wk3-1.models.vrb'.
-
-(./Wk3-1.models.vrb) [42
-
-]
-\openout4 = `Wk3-1.models.vrb'.
-
-(./Wk3-1.models.vrb) [43
-
-]
-\openout4 = `Wk3-1.models.vrb'.
-
-(./Wk3-1.models.vrb) [44
-
-]
-\openout4 = `Wk3-1.models.vrb'.
-
-(./Wk3-1.models.vrb) [45
-
-] [46
+] [42
 
 ]
 \tf@nav=\write6
@@ -1453,24 +1379,24 @@ l.840 \end{frame}
 \tf@snm=\write8
 \openout8 = `Wk3-1.models.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1140.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1096.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1096.
 (./Wk3-1.models.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1140.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1096.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1096.
  ) 
 Here is how much of TeX's memory you used:
- 23844 strings out of 483183
- 428792 string characters out of 5966292
- 689705 words of memory out of 5000000
- 38082 multiletter control sequences out of 15000+600000
- 603535 words of font info for 115 fonts, out of 8000000 for 9000
+ 23758 strings out of 483183
+ 426904 string characters out of 5966292
+ 688500 words of memory out of 5000000
+ 38038 multiletter control sequences out of 15000+600000
+ 580474 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,800b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
-vips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/shar
-e/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/l
-m-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/f
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/shar
+e/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
+thit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/f
 onts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></
@@ -1479,14 +1405,14 @@ ublic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmt
-ti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
-m10.pfb>
-Output written on Wk3-1.models.pdf (46 pages, 342094 bytes).
+m/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtko10.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+tt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Wk3-1.models.pdf (42 pages, 365033 bytes).
 PDF statistics:
- 432 PDF objects out of 1000 (max. 8388607)
- 346 compressed objects within 4 object streams
- 117 named destinations out of 1000 (max. 500000)
- 18500 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 411 PDF objects out of 1000 (max. 8388607)
+ 328 compressed objects within 4 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 6212 words of extra memory for PDF output out of 10000 (max. 10000000)
 
