@@ -512,3 +512,9 @@ But for many cases, an $R^2$ is not readily available. Pennell et al. (2015) ill
 At the end of all this, don't forget to look at your parameter estimates. If you have rescaled your data to mean of 0 and unit variance, the multiple / partial regression coefficients tell you the relative effect of each predictor on the response, in sd units; and the effect of each if all the others are held at their mean value (0 on the rescaled data). <br><br>
 
 Effect size and direction is in the end generally what you care about and how your hypotheses were formulated: which predictors have the greatest effect on the response, and do they have a positive or negative effet on the response? Your analysis won't have amounted to much if you don't take time to interpret your results after the results are in.
+
+---
+
+R markdown source:
+
+https://github.com/andrew-hipp/workshops/blob/master/2023-goettingen/ZZZ-presentations/Wk3-1_models/Wk3-1.models.Rmd

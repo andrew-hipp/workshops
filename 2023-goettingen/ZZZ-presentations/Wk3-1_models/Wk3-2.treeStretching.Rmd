@@ -353,3 +353,7 @@ It always worth asking whether the signal is significantly different from 0:
 ```fitContinuous(lambdaTree(tr3, 0), dat3[['low']], model = 'BM')```
 
 I leave this to you to try out.
+
+---
+
+R markdown source: https://github.com/andrew-hipp/workshops/blob/master/2023-goettingen/ZZZ-presentations/Wk3-1_models/Wk3-2.treeStretching.Rmd
