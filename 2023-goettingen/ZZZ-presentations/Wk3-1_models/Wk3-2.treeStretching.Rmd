@@ -182,7 +182,7 @@ The relative support for these two models can be estimated as their log-likeliho
 * $ln(\mathcal{L}_{Tree 1})$: the log-likelihood of the Brownian motion model for tip data + Tree 1
 * $ln(\mathcal{L}_{Tree 2})$: the log-likelihood of the Brownian motion model for tip data + Tree 2
 
-which we calculated two weeks using a function in the `mvtnorm` package:
+which we can calculate using a function in the `mvtnorm` package:
 ```
 lnL <- dmvnorm(x, rep(a.hat, N), V, log = TRUE) # from mvtnorm package
 ```
@@ -224,7 +224,7 @@ where Tree 1 is the simpler of the two models. With large enough sample sizes, $
 
 <br>
 
-You can also compare models using AICc weights, as we discussed last week, and use model-averaging to estimate the rates on different branches. Another approach altogether is to use reversible-jump Markov chain Monte Carlo (rjMCMC) to obtain model-averaged rates for every branch on the tree, as introduced in two papers you had in the supplements for this week (Eastman et al. and Venditti et al., both 2011, and apparently independent, as neither references the other).
+You can also compare models using AICc weights, as we discussed last week, and use model-averaging to estimate the rates on different branches. Another approach altogether is to use reversible-jump Markov chain Monte Carlo (rjMCMC) to obtain model-averaged rates for every branch on the tree (Eastman et al. and Venditti et al., both 2011).
 
 ---
 
@@ -295,7 +295,7 @@ plot(tr4, show.tip.label = F)
 ---
 
 # Ornstein-Uhlenbeck models
-A second model, which we will dive into in some greater detail in the third lecture, is the Ornstein-Uhlenbeck model of stabilizing selection. Under this model, trait evolution is modeled as according to a Brownian motion process with a pull toward an optimum. The effect of natural selection is to erode phylogenetic structure, similar to what we saw with Pagel's $\lambda$... only in this case, the tree scaling has an explicit evolutionary interpretation. It turns out that the O-U model can be expressed in terms of a tree scaling if and only if your phylogeny is ultrametric; if not, the model must be expressed as a transformation of the covariance structure. Here the scaling parameter is $\alpha$, sometimes referred to as the rate of adaptation:
+Ornstein-Uhlenbeck process models trait evolution as a Brownian motion process with a pull toward an optimum. Under this model, the effect of natural selection is to erode phylogenetic structure, similar to what we saw with Pagel's $\lambda$... only in this case, the tree scaling has an explicit evolutionary interpretation. It turns out that the O-U model can be expressed in terms of a tree scaling if and only if your phylogeny is ultrametric; if not, the model must be expressed as a transformation of the covariance structure. Here the scaling parameter is $\alpha$, sometimes referred to as the rate of adaptation:
 
 ```{r, echo = F, fig.height = 3}
 layout(matrix(1:4, 1))
