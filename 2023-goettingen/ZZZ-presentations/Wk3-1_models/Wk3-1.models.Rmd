@@ -11,9 +11,9 @@ fontsize: 10pt
 
 # Overview
 The last two weeks have been focused on fitting regression models using the formally equivalent methods of phylogenetic independent contrasts (PIC) and generalized least squares (GLS). Near the end of the last lecture, we introduced the likelihood calculation for GLS, and today we'll return to that. GLS is in some ways a more flexible framework for analysis than PIC, in part because the likelihood for a GLS model can easily be calculated. In this session, we'll cover two main topics:  
-    * __Likelihood__: calculation and practical extraction from `R` objects  
-    * __Information criteria__: history and theory, calculation of various IC and IC weights, and use of IC to select among models and average parameters over models  
-Effect size and model fit paying attention to the fact that even an unambiguously "best" model among a candidate suite of models may do a very poor job of explaining your data.
+* __Likelihood__: calculation and practical extraction from `R` objects  
+* __Information criteria__: history and theory, calculation of various IC and IC weights, and use of IC to select among models and average parameters over models   
+Along the way, we'll discuss a bit effect size and model fit, paying attention to the fact that even an unambiguously "best" model among a candidate suite of models may do a very poor job of explaining your data.
 
 ---
 
@@ -56,7 +56,7 @@ Now let's report the product of the likelihoods, understanding from our knowledg
 ```{r}
 sapply(model.fits, prod)
 ```
-But the result appears to beyond the precision of the computer. Drat!
+But the result appears to near the precision of the software (a few years ago, this returned results beyond the precision of the software). Drat!
 
 ---
 
@@ -67,12 +67,12 @@ model.fits.lnL <- sapply(model.fits, function(x) sum(log(x)))
 model.fits.lnL
 ```
 
-That's better! So if we wanted to compare these models using maximum likelihood, we would say that the first model was the best fit. Given the rule of thumb of 2 log-likelihood units representing a significant difference among models with the same number of parameters, this is a highly significant difference.
+That's better. So if we wanted to compare these models using maximum likelihood, we would say that the first model was the best fit. Given the rule of thumb of 2 log-likelihood units representing a significant difference among models with the same number of parameters, this is a highly significant difference.
 
 ---
 
 # Likelihood: two parameter example
-But these too are trivial examples. Rarely are our models so highly specified. Usually, instead, we want to compare models that differ in parameters and estimate the parameter values by maximizing the likelihood for each model. Let's fit a fourth model, on in which we estimate the parameters $\sigma$ and $\mu$ from the data and calculate the likelihood as we did above.
+But these too are trivial examples. Rarely are our models so highly specified. Usually, we want to compare models that differ in parameters and estimate the parameter values by maximizing the likelihood for each model. Let's fit a fourth model, in which we estimate the parameters $\sigma$ and $\mu$ from the data and calculate the likelihood as we did above.
 
 ```{r}
 model.fits$k2 = dnorm(dat, mean = mean(dat), sd = sd(dat))
@@ -88,7 +88,7 @@ When we use likelihood to compare models, likelihoods with all model parameters 
 
 Models in which we set any parameters to a specific value (e.g., models 1 $-$ 3 on the previous slide) are constrained, and they by necessity have lower likelihoods than an unconstrained model with the same parameters.  
 
-The parameters we estimate in a model are referred to as the free parameters. The number of free parameters in a model is often abbreviated as $K$.
+The parameters we estimate in a model are referred to as free parameters. The number of free parameters in a model is often abbreviated as $K$.
 
 ---
 
@@ -146,7 +146,7 @@ Compare this with our home-brewed log-likelihood:
 ```{r}
 dat.lnL
 ```
-Not too bad! The difference of `r abs(logLik(dat.regModel) - dat.lnL)` is probably just rounding error, as the logLik.lm method calculates the log normal distribution directly rather than taking the log of the raw distribution. If you want to see this, you can use `stats:::logLik.lm` to inspect the function.
+Not too bad. The difference of `r abs(logLik(dat.regModel) - dat.lnL)` is probably just rounding error, as the logLik.lm method calculates the log normal distribution directly rather than taking the log of the raw distribution. If you want to see this, you can use `stats:::logLik.lm` to inspect the function.
 
 ---
 
