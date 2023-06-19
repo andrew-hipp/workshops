@@ -87,6 +87,6 @@ mamba install -c bioconda bioconductor-ggtree
 And you should be done! All set to code and document code in Jupyter notebooks.
 
 ## working in WSL
-I have had file permission issues using WSL. I recommend two possible routes:
+I initially had file permission issues using WSL. I recommend two approaches:
   * access files using \\wsl$\... instead of c:/users/... -- the former seems to deal with permissions correctly.
-  * install and launch Visual Studio or whatever code editor you are using from within WSL. Oddly, the first instance I launch runs in windows; the second seems to run in Linux. I'm not quite sure what's up with this.
+  * install and launch Visual Studio Code or whatever code editor you are using from within WSL. Running `code .` from within the working directory launches the application to run in WSL. For more information, see [docs on Visual Studio Code site](https://code.visualstudio.com/docs/remote/wsl).
