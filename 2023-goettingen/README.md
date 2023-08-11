@@ -22,7 +22,7 @@ curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Ma
 bash Mambaforge-$(uname)-$(uname -m).sh
 ```
 
-3. Create a conda environment for r and jupyter, then activate it.
+3. Exit your shell using `exit`, then restart. Create a conda environment for r and jupyter, then activate it.
 
 ```
 conda create -n rjup && conda activate rjup
