@@ -69,19 +69,19 @@ jupyter notebook
 8. Optional but recommended: install R libraries you need from within conda. Installing these within R (using `install.packages()`) goes really slowly. The conda builds for these packages are nice. Here are the ones I recommend for starting in this workshop:
 
 ```
- mamba install -c conda-forge r-ape
- mamba install -c conda-forge r-geiger
- mamba install -c conda-forge r-phytools
- mamba install -c conda-forge r-vegan
+ mamba install -c conda-forge r-ape r-geiger r-phytools r-vegan
+```
 
-# Following lines are for ggtree, which I've found to be a fussy install. 
-# It seems to work better if you install the dependencies manually first:
+Then, the following lines are for ggtree, which I've found to be a fussy install. First install the conda-forge dependencies manually: 
 
-mamba install -c conda-forge r-aplot
-mamba install -c conda-forge r-tidyverse
-mamba install -c conda-forge r-tidytree
-mamba install -c bioconda bioconductor-treeio
-mamba install -c bioconda bioconductor-ggtree
+```
+mamba install -c conda-forge r-aplot r-tidyverse r-tidytree
+```
+
+... then the bioconda packages:
+
+``` 
+mamba install -c bioconda bioconductor-treeio bioconductor-ggtree
 ```
 
 And you should be done! All set to code and document code in Jupyter notebooks.
