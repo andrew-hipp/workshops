@@ -14,7 +14,7 @@ I wrote these mostly on a Windows laptop, working in the Linux subsystem for Win
 
 If you are working in Linux, life is easier; just skip step 1 below. 
 
-1. Install WSL on your computer. I chose the Ubuntu option, but I don't think it matters. Launch the linux terminal, do the updates (`sudo apt update`) and upgrades (`sudo apt upgrade`), and you should be set to roll.
+1. Install WSL 2 on your computer (instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install)). The Ubuntu distributon will install automatically, but if you don't like this, you can change it. I don't think it matters. Launch the linux terminal, do the updates (`sudo apt update`) and upgrades (`sudo apt upgrade`), and you should be set to roll.
 2. Install anaconda. I recommend using the conda-forge install with mamba support for package management (this [link](https://github.com/conda-forge/miniforge#mambaforge)). Mamba is in fact a re-implmentation of conda in C++, and it runs smoother and faster than conda. If you are using WSL, you follow the guidelines in this link within the Linux prompt. Throughout, I'll assume you are using Linux.
 
 ```
