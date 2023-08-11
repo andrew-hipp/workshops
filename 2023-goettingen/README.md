@@ -25,8 +25,7 @@ bash Mambaforge-$(uname)-$(uname -m).sh
 3. Create a conda environment for r and jupyter, then activate it.
 
 ```
-conda create -n rjup
-conda activate rjup
+conda create -n rjup && conda activate rjup
 ```
 
 4. Install Jupyter notebooks. Note that you can do this with pip instead of conda. I don't know whether there are real advantages either way.
