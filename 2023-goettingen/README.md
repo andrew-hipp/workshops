@@ -1,6 +1,6 @@
 # Workshop files for Goettingen 2023
 _created: 2023-06-02_  
-_updated: 2024-11-04_ (updating from mambaforge to miniforge)
+_updated: 2024-11-04_ (updating from mambaforge to miniforge)  
 Full R workshop overview [linked here](https://docs.google.com/document/d/1NkPN9qkc4AePf_6c1tbCn6E6Im17yygLOKD7UfA-3dY/edit?usp=sharing)
 
 Files in this folder are for a short R coding workshop I taught (am teaching) as a Fulbright Specialist at University of Goettingen in June 2023. You can use R for this workshop in any way you want to, whether on the command-line or in an IDE such as RStudio. You can use the tutorials in one of two ways. 
